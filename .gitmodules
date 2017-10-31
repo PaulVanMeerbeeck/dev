@@ -1,0 +1,3 @@
+[submodule "idmsstub"]
+	path = idmsstub
+	url = https://PaulVanMeerbeeck@github.com/PaulVanMeerbeeck/dev.git
